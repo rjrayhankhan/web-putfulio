@@ -1,0 +1,22 @@
+body{
+    font-family: 'Fjalla One', sans-serif;
+}
+
+h1{
+    font-size: 50px;
+}
+.rj{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left:5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.line{
+    line-height: 25px;
+}
