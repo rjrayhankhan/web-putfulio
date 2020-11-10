@@ -33,6 +33,7 @@ h1{
 }
 section{
     height: 500px;
+    padding-bottom: 120px;
    
 }
 .button{
@@ -45,6 +46,4 @@ section{
     letter-spacing: 1px;
     word-spacing: 2px;
 }
-.img{
-    padding-top: 20px;
-}
+   
